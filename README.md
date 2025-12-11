@@ -1,2 +1,2 @@
 # daily_notes
-笔记
+每日笔记
